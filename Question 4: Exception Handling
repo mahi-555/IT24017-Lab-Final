@@ -19,5 +19,6 @@ public class Main4 {
             System.out.println("Program Execution Completed");
             sc.close();
         }
-    }
+    
+}
 }
